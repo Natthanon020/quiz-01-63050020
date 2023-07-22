@@ -1,0 +1,217 @@
+body {
+  background-color: rgb(26, 26, 27);
+  font-family: Lucida, sans-serif;
+}
+
+.banner {
+  height: 600px;
+  width: 100%;
+  background-image: url(https://fotofaka.com/wp-content/uploads/2015/08/canonVSNik.jpg);
+  background-size: cover;
+  background-position: top center top;
+  display: flex;
+  justify-content: center;
+}
+.banner-form {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.banner-form > p2 {
+  font-size: medium;
+  color: rgba(28, 30, 31, 0.438);
+  text-align: right;
+}
+
+.banner-form > h1 {
+  margin: 15px;
+}
+
+.banner-form > button {
+  background-color: rgb(157, 32, 134);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  text-align: center;
+}
+
+.bunny:hover {
+  background-color: rgb(53, 171, 169);
+  cursor: pointer;
+  border: none;
+}
+.percy {
+  font-size: small;
+  background-color: rgba(44, 41, 41, 0.39);
+  height: 45px;
+  width: 110px;
+  border-radius: 25px;
+  position: relative;
+  left: 360px;
+  background-size: cover;
+}
+.little {
+  height: 450px;
+  width: 800px;
+  color: white;
+  background-color: rgb(21, 23, 28);
+  text-align: center;
+  margin: auto;
+  border-radius: 15px;
+}
+.hanna {
+  color: rgba(112, 121, 134, 0.671);
+}
+
+.little > h2 {
+  font-size: 180%;
+}
+
+.little > h1 {
+  font-size: 180%;
+}
+.little > p2 {
+  font-size: medium;
+  margin: 1px;
+  color: white;
+}
+
+.little > p {
+  font-size: medium;
+  margin: 10px;
+  color: rgba(115, 125, 141, 0.671);
+}
+
+.monney {
+  color: rgba(115, 123, 136, 0.671);
+}
+
+.lam {
+  text-align: center;
+  color: white;
+}
+
+.yeti {
+  color: rgba(114, 124, 138, 0.671);
+  font-size: small;
+}
+.lovely {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+}
+.lam > h1 {
+  font-size: 200%;
+}
+
+.lam > h2 {
+  font-size: 100%;
+  color: rgba(113, 123, 138, 0.671);
+}
+
+.pop {
+  margin: auto;
+  width: 150px;
+  height: 300px;
+}
+.pop > img {
+  width: 150%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+.pop > p {
+  background-color: rgb(19, 22, 27);
+  position: relative;
+
+  text-align: center;
+  position: static;
+  color: rgba(132, 143, 160, 0.671);
+  width: 150%;
+  height: 120px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.pop > p2 {
+  position: relative;
+
+  left: 35px;
+  text-align: center;
+  color: white;
+}
+
+.pop2 {
+  margin: auto;
+  width: 150px;
+  height: 300px;
+}
+.pop2 > img {
+  width: 150%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+.pop2 > p {
+  background-color: rgb(19, 22, 27);
+  position: relative;
+
+  text-align: center;
+  position: static;
+  color: rgba(132, 143, 160, 0.671);
+  width: 150%;
+  height: 120px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.pop2 > p2 {
+  position: relative;
+
+  left: 35px;
+  text-align: center;
+  color: white;
+}
+.deeday {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+}
+
+.ca {
+  background-color: rgb(18, 70, 180);
+  border-radius: 80px;
+  width: 100px;
+  height: 90px;
+  font-size: 250%;
+  position: absolute;
+  top: 630px;
+  left: 525px;
+}
+
+.dun > p2 {
+  position: relative;
+  left: 35px;
+  text-align: center;
+  color: white;
+}
+.dun {
+  width: 150px;
+  height: 120px;
+  position: absolute;
+  top: 2100px;
+  left: 245px;
+  text-align: center;
+}
+
+.lumyong > p {
+  background-color: rgb(19, 22, 27);
+  position: relative;
+  text-align: center;
+  position: static;
+  color: rgba(132, 143, 160, 0.671);
+  width: 150%;
+  height: 120px;
+  margin: 5px;
+  border-radius: 10px;
+}
